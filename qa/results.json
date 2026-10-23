@@ -1,0 +1,208 @@
+{
+  "widths": [
+    {
+      "width": 375,
+      "scrollWidth": 375,
+      "height": 4114,
+      "images": [
+        {
+          "src": "img/agua.webp",
+          "loaded": true,
+          "width": 1600,
+          "height": 1067
+        },
+        {
+          "src": "img/caliza.webp",
+          "loaded": true,
+          "width": 900,
+          "height": 1350
+        },
+        {
+          "src": "img/luz.webp",
+          "loaded": true,
+          "width": 1000,
+          "height": 561
+        },
+        {
+          "src": "img/cauce.webp",
+          "loaded": true,
+          "width": 1400,
+          "height": 933
+        }
+      ],
+      "overflow": []
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "height": 4014,
+      "images": [
+        {
+          "src": "img/agua.webp",
+          "loaded": true,
+          "width": 1600,
+          "height": 1067
+        },
+        {
+          "src": "img/caliza.webp",
+          "loaded": true,
+          "width": 900,
+          "height": 1350
+        },
+        {
+          "src": "img/luz.webp",
+          "loaded": true,
+          "width": 1000,
+          "height": 561
+        },
+        {
+          "src": "img/cauce.webp",
+          "loaded": true,
+          "width": 1400,
+          "height": 933
+        }
+      ],
+      "overflow": []
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "height": 4482,
+      "images": [
+        {
+          "src": "img/agua.webp",
+          "loaded": true,
+          "width": 1600,
+          "height": 1067
+        },
+        {
+          "src": "img/caliza.webp",
+          "loaded": true,
+          "width": 900,
+          "height": 1350
+        },
+        {
+          "src": "img/luz.webp",
+          "loaded": true,
+          "width": 1000,
+          "height": 561
+        },
+        {
+          "src": "img/cauce.webp",
+          "loaded": true,
+          "width": 1400,
+          "height": 933
+        }
+      ],
+      "overflow": []
+    },
+    {
+      "width": 1920,
+      "scrollWidth": 1920,
+      "height": 5121,
+      "images": [
+        {
+          "src": "img/agua.webp",
+          "loaded": true,
+          "width": 1600,
+          "height": 1067
+        },
+        {
+          "src": "img/caliza.webp",
+          "loaded": true,
+          "width": 900,
+          "height": 1350
+        },
+        {
+          "src": "img/luz.webp",
+          "loaded": true,
+          "width": 1000,
+          "height": 561
+        },
+        {
+          "src": "img/cauce.webp",
+          "loaded": true,
+          "width": 1400,
+          "height": 933
+        }
+      ],
+      "overflow": []
+    }
+  ],
+  "errors": [],
+  "checks": {
+    "mobileContact": true,
+    "clipboard": "636126378",
+    "copyStatus": "Número copiado: 636 126 378",
+    "links": [
+      {
+        "href": "#contenido",
+        "valid": true
+      },
+      {
+        "href": "#origen",
+        "valid": true
+      },
+      {
+        "href": "#ubicacion",
+        "valid": true
+      },
+      {
+        "href": "#contacto",
+        "valid": true
+      },
+      {
+        "href": "tel:+34636126378",
+        "valid": true
+      },
+      {
+        "href": "tel:+34636126378",
+        "valid": true
+      },
+      {
+        "href": "https://www.google.com/maps/search/?api=1&query=Junto%20al%20Manantial%20de%20los%20Ca%C3%B1itos%2C%20Carretera%2C%2011670%20El%20Bosque%2C%20C%C3%A1diz",
+        "valid": true
+      },
+      {
+        "href": "tel:+34636126378",
+        "valid": true
+      },
+      {
+        "href": "tel:+34636126378",
+        "valid": true
+      },
+      {
+        "href": "https://www.google.com/maps/search/?api=1&query=Junto%20al%20Manantial%20de%20los%20Ca%C3%B1itos%2C%20Carretera%2C%2011670%20El%20Bosque%2C%20C%C3%A1diz",
+        "valid": true
+      },
+      {
+        "href": "#origen",
+        "valid": true
+      },
+      {
+        "href": "tel:+34636126378",
+        "valid": true
+      }
+    ],
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "LodgingBusiness",
+      "name": "Alojamiento Rural Manantial de los Cañitos",
+      "telephone": "+34636126378",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Junto al Manantial de los Cañitos, Carretera",
+        "postalCode": "11670",
+        "addressLocality": "El Bosque",
+        "addressRegion": "Cádiz",
+        "addressCountry": "ES"
+      }
+    },
+    "keyboardSkip": true,
+    "manualCopy": true,
+    "manualSelection": true,
+    "revealComplete": true,
+    "reducedMotion": true,
+    "noJsContent": true
+  }
+}

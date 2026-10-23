@@ -1,0 +1,11 @@
+# Archivos locales del editor y del sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
+node_modules/
+# Perfiles temporales de pruebas de navegador
+qa/browser-profile/
