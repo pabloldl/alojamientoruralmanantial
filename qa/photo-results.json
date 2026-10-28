@@ -1,0 +1,39 @@
+{
+  "widths": [
+    {
+      "width": 375,
+      "scrollWidth": 375,
+      "overflow": []
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "overflow": []
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": []
+    },
+    {
+      "width": 1920,
+      "scrollWidth": 1920,
+      "overflow": []
+    }
+  ],
+  "errors": [],
+  "checks": {
+    "anchors": true,
+    "photosLoaded": true,
+    "uniquePhotos": true,
+    "details": true,
+    "copyFallback": true,
+    "modal": true,
+    "keyboardNext": true,
+    "wrap": true,
+    "touch": true,
+    "close": true,
+    "focus": true,
+    "noJS": true
+  }
+}

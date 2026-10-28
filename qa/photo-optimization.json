@@ -1,0 +1,34 @@
+[
+  {
+    "original": "img/428114573.jpg",
+    "optimized": "imgs/fachada-patio.webp",
+    "originalBytes": 164860,
+    "optimizedBytes": 131986,
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "original": "img/777022725.jpg",
+    "optimized": "imgs/vista-aerea.webp",
+    "originalBytes": 142839,
+    "optimizedBytes": 131024,
+    "width": 1024,
+    "height": 565
+  },
+  {
+    "original": "img/777025184.jpg",
+    "optimized": "imgs/piscina.webp",
+    "originalBytes": 107355,
+    "optimizedBytes": 87384,
+    "width": 1024,
+    "height": 768
+  },
+  {
+    "original": "img/776986369.jpg",
+    "optimized": "imgs/oveja-cordero.webp",
+    "originalBytes": 160727,
+    "optimizedBytes": 137556,
+    "width": 1024,
+    "height": 768
+  }
+]
